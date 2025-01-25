@@ -1,0 +1,23 @@
+payload:
+  - DOMAIN,www.pic-cache.com
+  - DOMAIN,a.magsrv.com
+  - DOMAIN,dataflow.biliapi.com
+  - DOMAIN,events.gfe.nvidia.com
+  
+  #- IP-CIDR,23.90.129.6/32,no-resolve
+  #- IP-CIDR,23.216.159.115/32,no-resolve
+  #- IP-CIDR,125.56.201.104/32,no-resolve
+  #- IP-CIDR,61.213.168.41/32,no-resolve
+  #- IP-CIDR,184.27.185.94/32,no-resolve
+  #- IP-CIDR,104.75.169.16/32,no-resolve
+  
+  
+  
+ #匹配数据发起IP 
+ # - SRC-IP-CIDR,192.168.100.241/32
+ # - SRC-IP-CIDR,192.168.100.120/32
+ # - SRC-IP-CIDR,192.168.100.180/32 
+ # - SRC-IP-CIDR,192.168.100.173/32 
+ # - SRC-IP-CIDR,192.168.100.169/32 
+ # - SRC-IP-CIDR,192.168.100.241/32 
+ # - SRC-IP-CIDR,192.168.100.241/32 
