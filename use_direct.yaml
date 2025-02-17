@@ -1,8 +1,8 @@
 payload:
   - DOMAIN,www.pic-cache.com
   - DOMAIN,a.magsrv.com
-  - DOMAIN,dataflow.biliapi.com
-  - DOMAIN,events.gfe.nvidia.com
+  #- DOMAIN,dataflow.biliapi.com
+  #- DOMAIN,events.gfe.nvidia.com
   
   #- IP-CIDR,23.90.129.6/32,no-resolve
   #- IP-CIDR,23.216.159.115/32,no-resolve
