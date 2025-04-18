@@ -1,7 +1,7 @@
 payload:
   - DOMAIN,www.pic-cache.com
   - DOMAIN,a.magsrv.com
-  - DOMAIN,rtbapi.douyucdn
+  - DOMAIN,rtbapi.douyucdn.cn
   - DOMAIN,venus.douyucdn.cn
   #- DOMAIN,dataflow.biliapi.com
   #- DOMAIN,line1-log.biligame.net
