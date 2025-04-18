@@ -2,8 +2,8 @@ payload:
   - DOMAIN,www.pic-cache.com
   - DOMAIN,a.magsrv.com
   - DOMAIN,rtbapi.douyucdn.cn
-  - DOMAIN,venus.douyucdn.cn
-  - DOMAIN,abvolcapi.douyucdn.cn
+  #- DOMAIN,venus.douyucdn.cn
+  #- DOMAIN,abvolcapi.douyucdn.cn
   #- DOMAIN,dataflow.biliapi.com
   #- DOMAIN,line1-log.biligame.net
   #- DOMAIN,events.gfe.nvidia.com
